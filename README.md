@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sabesh
 
 Computer Science undergraduate
-<img align="right" width="370" height="290" src="">                                                
+<!--<img align="right" width="370" height="290" src=""> -->                                              
 - 🌱 Interested in Web Development
 - 👯 currently looking for an internship
 - 💬 Ask me about Tech
