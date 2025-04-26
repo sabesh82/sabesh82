@@ -3,7 +3,7 @@
 Computer Science undergraduate
 <!--<img align="right" width="370" height="290" src=""> -->                                              
 - 🌱 Interested in Web Development
-- 👯 currently looking for an internship
+- 👯 currently doing an internship at KIFGO
 - 💬 Ask me about Tech
 - 😄 Pronouns: Software Engineer
 
