@@ -2,7 +2,7 @@
 
 ### 🎓  BSc Computer Science, Eastern University Sri Lanka
                                           
-- 🌱 Interested in Full-Stack Development
+- 🌱 Interested in Web Development
 - 👯 Completed Software Engineer Internship(Full-Stack Developer) at KIFGO(PVT) Ltd
 - 🤝 Strong in **team collaboration, problem-solving & communication**   
 - 💬 Ask me about ***Tech, Web Development, AI, APIs***
