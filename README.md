@@ -2,17 +2,17 @@
 
 ### 🎓  BSc in Computer Science – Eastern University, Trincomalee Campus
                                           
-- 🌱 Interested in Web Development
-- 👯 Completed Software Engineer Internship at KIFGO(PVT) Ltd
+- 🌱 Interested in Full-Stack Development
+- 👯 Completed Software Engineer Internship(Full-Stack Developer) at KIFGO(PVT) Ltd
 - 🤝 Strong in **team collaboration, problem-solving & communication**   
 - 💬 Ask me about ***Tech, Web Development, AI, APIs***
-- 😄 Pronouns: Software Engineer
+- 😄 Pronouns: Aspiring Software Engineer
 
 ###
-### I code in
+### Skills
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000"/>
 
 ### IDE and Tools I Worked With
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b5695839-2c6b-48c2-8ce0-a38cbb03f53f" /> 
