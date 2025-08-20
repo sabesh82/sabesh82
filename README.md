@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sabesh
 
-### 🎓  BSc in Computer Science – Eastern University, Trincomalee Campus
+### 🎓  BSc Computer Science, Eastern University Sri Lanka
                                           
 - 🌱 Interested in Full-Stack Development
 - 👯 Completed Software Engineer Internship(Full-Stack Developer) at KIFGO(PVT) Ltd
